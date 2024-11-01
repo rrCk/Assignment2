@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input, button {
+    margin-top: 10px;
+    padding: 8px;
+}
+
+p#result1,p#result2,p#result3 {
+    margin-top: 20px;
+    font-weight: bold;
+}
